@@ -114,7 +114,11 @@ mathmatics for machine learning (book)==> https://mml-book.github.io/
 
 https://youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&si=tSmAhGPGUhOFBw6M
 
+classics physics==>https://youtube.com/playlist?list=PL8pYI62gCNsXyl6qNmOBlYdVQy6RLNItO&si=Rxzu-ae5-9YyQM-J
+
 physics 1==> https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e
+
+Theoretical Physics - Mechanics Landau and Lifshitz==>https://www.youtube.com/playlist?list=PL8pYI62gCNsWWFCWDXO0Bm8BpC7VwB78t
 
 physics 2==>https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j
 
