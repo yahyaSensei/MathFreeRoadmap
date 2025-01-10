@@ -112,6 +112,8 @@ Stanford CS109 Introduction to Probability for Computer Scientists I 2022 I Chri
 
 mathmatics for machine learning (book)==> https://mml-book.github.io/
 
+machine learning(stanford)==>https://www.coursera.org/specializations/machine-learning-introduction
+
 https://youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&si=tSmAhGPGUhOFBw6M
 
 classics physics==>https://youtube.com/playlist?list=PL8pYI62gCNsXyl6qNmOBlYdVQy6RLNItO&si=Rxzu-ae5-9YyQM-J
