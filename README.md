@@ -51,6 +51,8 @@ Multivariable Calculus==>https://ocw.mit.edu/courses/18-02sc-multivariable-calcu
 
 Differential Equations==>https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/
 
+Calculus with python==>https://youtu.be/VDFRpjQVaME?si=smAvp_gWRt-YTfhp
+
 Mathematics for Computer Science==>https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
 
 Essence of Linear Algebra==>https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
