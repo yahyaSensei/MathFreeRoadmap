@@ -5,9 +5,13 @@ math road map
 
 ======
 
-Introduction to Mathematical Thinking==>https://www.coursera.org/learn/mathematical-thinking
+LATEX intro ==> https://youtu.be/sYT5-ofY3L4?si=oaQLNPUpm0vNiY9H
 
-LaTeX==>https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+                https://youtube.com/playlist?list=PLHXZ9OQGMqxcWWkx2DMnQmj5os2X5ZR73&si=WQT3thiN8eMRbOOA
+                
+                https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+
+Introduction to Mathematical Thinking==>https://www.coursera.org/learn/mathematical-thinking
 
 python 1==>https://youtu.be/XKQaCF_Om8o?si=8-MAM4nFyewqUIfQ
 
